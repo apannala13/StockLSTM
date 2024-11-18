@@ -1,2 +1,2 @@
 # StockLSTM
-LSTM Stock Bot 
+Training LSTM on 5 years of stock data from YFinance. 
